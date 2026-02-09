@@ -40,19 +40,19 @@
     "url": "https://boppccu.com",
     "icon": "https://icons.duckduckgo.com/ip3/boppccu.com.ico",
     "slug": "boppccu",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1250,
-    "timeDay": 1250,
-    "timeWeek": 1250,
-    "timeMonth": 1250,
-    "timeYear": 1250,
+    "status": "up",
+    "uptime": "53.15%",
+    "uptimeDay": "53.15%",
+    "uptimeWeek": "53.15%",
+    "uptimeMonth": "53.15%",
+    "uptimeYear": "53.15%",
+    "time": 1358,
+    "timeDay": 1358,
+    "timeWeek": 1358,
+    "timeMonth": 1358,
+    "timeYear": 1358,
     "dailyMinutesDown": {
-      "2026-02-09": 0
+      "2026-02-09": 34
     }
   },
   {
