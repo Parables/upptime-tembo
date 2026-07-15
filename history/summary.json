@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/boppeccu.csinformationsys.com.ico",
     "slug": "tembo",
     "status": "down",
-    "uptime": "93.92%",
+    "uptime": "93.87%",
     "uptimeDay": "76.58%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "93.92%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "96.49%",
+    "uptimeYear": "93.87%",
     "time": 1165,
     "timeDay": 577,
     "timeWeek": 690,
-    "timeMonth": 750,
+    "timeMonth": 754,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2026-02-09": 58,
@@ -81,7 +81,7 @@
       "2026-07-06": 206,
       "2026-07-13": 109,
       "2026-07-14": 342,
-      "2026-07-15": 0
+      "2026-07-15": 112
     }
   },
   {
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
     "time": 1595,
-    "timeDay": 1777,
+    "timeDay": 1742,
     "timeWeek": 1742,
-    "timeMonth": 1702,
+    "timeMonth": 1698,
     "timeYear": 1595,
     "dailyMinutesDown": {
       "2026-04-24": 266,
@@ -119,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.74%",
     "time": 972,
-    "timeDay": 1608,
+    "timeDay": 1525,
     "timeWeek": 743,
-    "timeMonth": 617,
+    "timeMonth": 627,
     "timeYear": 972,
     "dailyMinutesDown": {
       "2026-02-09": 34,
@@ -161,9 +161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
     "time": 603,
-    "timeDay": 596,
+    "timeDay": 588,
     "timeWeek": 599,
-    "timeMonth": 596,
+    "timeMonth": 592,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2026-04-24": 266,
@@ -184,9 +184,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
     "time": 281,
-    "timeDay": 364,
+    "timeDay": 456,
     "timeWeek": 287,
-    "timeMonth": 243,
+    "timeMonth": 245,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2026-04-24": 266,
