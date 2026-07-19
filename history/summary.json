@@ -4,17 +4,17 @@
     "url": "https://boppeccu.csinformationsys.com/",
     "icon": "https://icons.duckduckgo.com/ip3/boppeccu.csinformationsys.com.ico",
     "slug": "tembo",
-    "status": "down",
-    "uptime": "93.74%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "87.70%",
-    "uptimeMonth": "95.66%",
-    "uptimeYear": "93.74%",
-    "time": 1149,
-    "timeDay": 534,
-    "timeWeek": 751,
-    "timeMonth": 767,
-    "timeYear": 1149,
+    "status": "up",
+    "uptime": "93.69%",
+    "uptimeDay": "91.96%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "93.69%",
+    "time": 1147,
+    "timeDay": 588,
+    "timeWeek": 742,
+    "timeMonth": 764,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2026-02-09": 58,
       "2026-02-10": 262,
@@ -83,7 +83,7 @@
       "2026-07-14": 342,
       "2026-07-15": 674,
       "2026-07-16": 115,
-      "2026-07-19": 0
+      "2026-07-19": 116
     }
   },
   {
