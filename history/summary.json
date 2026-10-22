@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/boppeccu.csinformationsys.com.ico",
     "slug": "tembo",
     "status": "up",
-    "uptime": "88.84%",
+    "uptime": "88.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.92%",
-    "uptimeMonth": "94.23%",
-    "uptimeYear": "88.84%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "88.87%",
     "time": 1362,
     "timeDay": 572,
     "timeWeek": 607,
-    "timeMonth": 787,
+    "timeMonth": 792,
     "timeYear": 1362,
     "dailyMinutesDown": {
       "2026-02-28": 423,
@@ -121,23 +121,18 @@
     "url": "https://boss.boppccu.com",
     "icon": "https://icons.duckduckgo.com/ip3/boss.boppccu.com.ico",
     "slug": "boss",
-    "status": "up",
-    "uptime": "99.06%",
+    "status": "down",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "100.00%",
     "time": 1597,
     "timeDay": 1734,
     "timeWeek": 1796,
     "timeMonth": 1513,
     "timeYear": 1597,
-    "dailyMinutesDown": {
-      "2026-04-24": 266,
-      "2026-04-23": 1440,
-      "2026-04-22": 1440,
-      "2026-04-21": 318
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BOPPCCU",
@@ -187,31 +182,18 @@
     "url": "https://mail.boppccu.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.boppccu.com.ico",
     "slug": "boppccu-mail",
-    "status": "up",
-    "uptime": "96.79%",
+    "status": "down",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.79%",
+    "uptimeYear": "100.00%",
     "time": 591,
     "timeDay": 601,
     "timeWeek": 609,
     "timeMonth": 587,
     "timeYear": 591,
-    "dailyMinutesDown": {
-      "2026-04-24": 266,
-      "2026-04-23": 1440,
-      "2026-04-22": 1440,
-      "2026-04-21": 317,
-      "2026-08-31": 920,
-      "2026-08-30": 329,
-      "2026-09-11": 827,
-      "2026-09-10": 1440,
-      "2026-09-09": 1440,
-      "2026-09-08": 1440,
-      "2026-09-07": 1440,
-      "2026-09-06": 489
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CUBE",
@@ -219,21 +201,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cube.boppccu.com.ico",
     "slug": "cube",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 283,
     "timeWeek": 327,
     "timeMonth": 323,
     "timeYear": 283,
-    "dailyMinutesDown": {
-      "2026-04-24": 266,
-      "2026-04-23": 1440,
-      "2026-04-22": 1440,
-      "2026-04-21": 317
-    }
+    "dailyMinutesDown": {}
   }
 ]
